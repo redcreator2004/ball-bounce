@@ -1,2 +1,2 @@
-# ball-bounce
-red and blue ball obeying laws of physical world matter.js
+# staticSquare
+A static square made using Matter.js physics engine
